@@ -70,7 +70,7 @@ width: 100px;
 /* mobile  */
 @media(max-width: 500px) {
 	.note-area {
-		width: 100%;
+		width: 90%;
 	}
 	.notes {
 		grid-template-columns: 1fr;
